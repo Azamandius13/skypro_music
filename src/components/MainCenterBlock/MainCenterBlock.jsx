@@ -2,6 +2,7 @@ import React from "react";
 
 function MainCenterBlock() {
   return (
+    
       <div className="main__centerblock centerblock">
         <div className="centerblock__search search">
           <svg className="search__svg">
