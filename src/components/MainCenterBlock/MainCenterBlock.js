@@ -7,3 +7,5 @@ export const MainCenterBlock = styled.div`
   flex-grow: 3;
   padding: 20px 40px 20px 111px;
 `
+
+export default MainCenterBlock;
