@@ -6,3 +6,5 @@ export const Navigation = styled.nav`
   padding: 20px 0 20px 36px;
 
 `
+
+export default Navigation;
